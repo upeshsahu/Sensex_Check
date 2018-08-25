@@ -31,6 +31,6 @@ Basic Command line tool as well as GUI  tool to fetch daily sensex rate  !! Why 
 <li>Fork repository and Contribute. </li>
 </ul>
 <br>
-![Screenshot](https://github.com/upeshsahu/Sensex_Check/blob/master/start.png) <br>
+![Screenshot](https://github.com/upeshsahu/Sensex_Check/blob/master/Screenshot%20from%202018-08-25%2014-43-17.png) <br>
 
 
